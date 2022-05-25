@@ -1,6 +1,6 @@
 # PDF TEXT Summarizer for Metals and Minerals Standard
 
-A Comprehensive extraction of PDF file methods, and various Deep Learning Algorithms for text Summarizer.
+A Comprehensive extraction of PDF file methods, and various Transformer based NLP Learning Algorithms for text Summarizer.
 
 The model should be able to extract the sections like Introduction, Sustainability disclosures topics… and sub sections like Greenhouse Gas emission, Air Quality etc and it’s relevant text and summarize it.
 
