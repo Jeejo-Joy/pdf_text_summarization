@@ -1,0 +1,125 @@
+t5-small
+--------
+
+Introduction : default_t5_summary_150:
+
+SASB Standards are designed to identify a minimum set of sustainability issues most likely to impact the operating performance or financial condition of the typical company in an industry, regardless of location . each accounting metric is accompanied by a technical protocol that provides guidance for third-party assurance .
+
+****************************************************************************************************
+
+t5-small
+--------
+
+Purpose of SASB Standards : default_t5_summary_150:
+
+the term "sustainability" in the SASB Standards refers to corporate activities that maintain or enhance the company's ability to create value over the long term . the SASBStandards also refer to sustainability as "ESG"
+
+****************************************************************************************************
+
+mt5-small-finetuned-amazon-en-es
+--------------------------------
+
+Introduction : summarizer_amazon_en_es_summary_150:
+
+SASB Standards are designed to identify a minimum set of sustainability issues most likely to impact the operating performance or financial condition of the typical company in an industry, regardless of location . each accounting metric is accompanied by a technical protocol that provides guidance for third-party assurance .
+
+****************************************************************************************************
+
+mt5-small-finetuned-amazon-en-es
+--------------------------------
+
+Purpose of SASB Standards : summarizer_amazon_en_es_summary_150:
+
+the term "sustainability" in the SASB Standards refers to corporate activities that maintain or enhance the company's ability to create value over the long term . the SASBStandards also refer to sustainability as "ESG"
+
+****************************************************************************************************
+
+sshleifer/distilbart-cnn-12-6
+-----------------------------
+
+Introduction : default_t5_summary_150:
+
+SASB Standards are designed to identify a minimum set of sustainability issues most likely to impact the operating performance or financial condition of the typical company in an industry, regardless of location . each accounting metric is accompanied by a technical protocol that provides guidance for third-party assurance .
+
+****************************************************************************************************
+
+sshleifer/distilbart-cnn-12-6
+-----------------------------
+
+Purpose of SASB Standards : default_t5_summary_150:
+
+the term "sustainability" in the SASB Standards refers to corporate activities that maintain or enhance the company's ability to create value over the long term . the SASBStandards also refer to sustainability as "ESG"
+
+****************************************************************************************************
+
+facebook/bart-large-cnn
+-----------------------
+
+Introduction : summarizer_fb_bart_summary_150:
+
+SASB Standards are designed to identify a minimum set of sustainability issues most likely to impact the operating performance or financial condition of the typical company in an industry, regardless of location . each accounting metric is accompanied by a technical protocol that provides guidance for third-party assurance .
+
+****************************************************************************************************
+
+facebook/bart-large-cnn
+-----------------------
+
+Purpose of SASB Standards : summarizer_fb_bart_summary_150:
+
+the term "sustainability" in the SASB Standards refers to corporate activities that maintain or enhance the company's ability to create value over the long term . the SASBStandards also refer to sustainability as "ESG"
+
+****************************************************************************************************
+
+open_ai_davinici_002
+--------------------
+
+Purpose of SASB Standards : open_ai_davinici_002_summary_130:
+
+The SASB Standards are intended to be used by companies to prepare their sustainability disclosure for the benefit offinancial statement users. They should not be used to assess environmental or social performance, craft environmental orsocial strategies, or implement environmental or social programs.SASB Standards are not rules or regulations. They are not mandatory. Companies are not required to use the SASBStandards to prepare sustainability disclosure.The SASB Standards were developed based on the premise that companies that can better manage and communicatesustainability issues most likely to impact the operating performance or financial condition of the typical company
+
+****************************************************************************************************
+
+open_ai_davinici
+----------------
+
+Purpose of SASB Standards : open_ai_davinici_summary_130:
+
+The SASB Standards are designed to be consistent with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices. SASBStandards are designed to be used in conjunction with existing financial reporting standards and practices
+
+****************************************************************************************************
+
+bert-large-uncased
+------------------
+
+Purpose of SASB Standards : bert-large-uncased:
+
+The use of the term “sustainability” in the SASB Standards refers to corporate activities that maintain or enhance theability of the company to create value over the long term. Businesses can use the SASB Standards to better identify, manage, and communicate to investors sustainabilityinformation that is financially material. Use of the Standards can benefit businesses by improving transparency, riskmanagement, and performance.
+
+****************************************************************************************************
+
+distilbert-base-uncased
+-----------------------
+
+Purpose of SASB Standards : distilbert-base-uncased:
+
+The use of the term “sustainability” in the SASB Standards refers to corporate activities that maintain or enhance theability of the company to create value over the long term. Sustainability accounting reflects the governance andmanagement of a company’s environmental and social impacts arising from production of goods and services, as well asits governance and management of the environmental and social capitals necessary to create long-term value. Businesses can use the SASB Standards to better identify, manage, and communicate to investors sustainabilityinformation that is financially material.
+
+****************************************************************************************************
+
+paraphrase-MiniLM-L6-v2
+-----------------------
+
+Purpose of SASB Standards : paraphrase-MiniLM-L6-v2:
+
+The use of the term “sustainability” in the SASB Standards refers to corporate activities that maintain or enhance theability of the company to create value over the long term. Sustainability accounting reflects the governance andmanagement of a company’s environmental and social impacts arising from production of goods and services, as well asits governance and management of the environmental and social capitals necessary to create long-term value. SASB Standards aredesigned to enable communications on corporate performance on industry-level sustainability issues in a cost-effectiveand decision-useful manner using existing disclosure and reporting mechanisms.
+
+****************************************************************************************************
+
+custom_scibert_scivocab_uncased
+-------------------------------
+
+Purpose of SASB Standards : scibert_scivocab_uncased:
+
+The use of the term “sustainability” in the SASB Standards refers to corporate activities that maintain or enhance theability of the company to create value over the long term. The SASBStandards also refer to sustainability as “ESG” (environmental, social, and governance), though traditional corporategovernance issues such as board composition are not included within the scope of the SASB Standards.
+
+****************************************************************************************************

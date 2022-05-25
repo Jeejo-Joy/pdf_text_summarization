@@ -1,0 +1,253 @@
+Introduction
+------------
+
+ The use of the term “sustainability” in the SASB Standards refers to
+ corporate activities that maintain or enhance theability of the company to
+ create value over the long term. A company determineswhich Standard(s) is
+ relevant to the company, which disclosure topics are financially material
+ to its business, and whichassociated metrics to report, taking relevant
+ legal requirements into account1. Activity MetricsUNIT OFACTIVITY METRIC
+ CATEGORY CODEMEASUREMetric tons (t)Production of (1) metal ores and (2)
+ finished metal products Quantitative EM-MM-000.AsaleableNumber,Total number
+ of employees, percentage contractors Quantitative EM-MM-000.BPercentage
+ (%)SUSTAINABILITY ACCOUNTING STANDARD | METALS & MINING | 8
+ 
+
+ Purpose of SASB Standards
+ -------------------------
+
+  The use of the term “sustainability” in the SASB Standards refers to
+  corporate activities that maintain or enhance theability of the company to
+  create value over the long term. Sustainability accounting reflects the
+  governance andmanagement of a company’s environmental and social impacts
+  arising from production of goods and services, as well asits governance and
+  management of the environmental and social capitals necessary to create
+  long-term value. Businesses can use the SASB Standards to better identify,
+  manage, and communicate to investors sustainabilityinformation that is
+  financially material.
+  
+
+ Overview of SASB Standards
+ --------------------------
+
+  The SASB Standards board has developed a set of 77 industry-specific
+  sustainability accounting standards (“SASBStandards” or “industry
+  standards”), categorized pursuant to the SASB Sustainable Industry
+  Classification System®(SICS®). Accounting metrics – A set of quantitative
+  and/or qualitative accounting metrics intended to measure performanceon
+  each topic.3. Technical protocols – Each accounting metric is accompanied
+  by a technical protocol that provides guidance ondefinitions, scope,
+  implementation, compilation, and presentation, all of which are intended to
+  constitute suitable criteriafor third-party assurance.4.
+  
+
+ Use of the Standards
+ --------------------
+
+  SASB Standards are intended for use in communications to investors
+  regarding sustainability issues that are likely toimpact corporate ability
+  to create value over the long term. A company determineswhich Standard(s)
+  is relevant to the company, which disclosure topics are financially
+  material to its business, and whichassociated metrics to report, taking
+  relevant legal requirements into account1. However, companies with
+  substantial business in multipleSICS® industries can consider reporting on
+  these additional SASB Standards.
+  
+
+ Industry Description
+ --------------------
+
+  The Metals & Mining industry is involved in extracting metals and minerals,
+  producing ores, quarrying stones, smeltingand manufacturing metals,
+  refining metals, and providing mining support activities. It also produces
+  iron ores, rare earthmetals, and precious metals and stones. SUSTAINABILITY
+  ACCOUNTING STANDARD | METALS & MINING | 7UNIT OFTOPIC ACCOUNTING METRIC
+  CATEGORY CODEMEASUREApproach to development of EmergencyDiscussion
+  andPreparedness and Response Plans (EPRPs) for  n/a EM-
+  MM-540a.3Analysistailings storage facilitiesTable 2.
+  
+
+
+
+Sustainability Disclosure Topics & Accounting Metrics
+-----------------------------------------------------
+
+ Topic SummaryMining operations are energy-intensive and generate
+ significant direct greenhouse gas (GHG) emissions, including carbondioxide
+ from fuel use during mining, ore processing, and smelting activities.
+ SUSTAINABILITY ACCOUNTING STANDARD | METALS & MINING | 37Topic
+ SummaryMetals and mining companies face inherent tension between the need
+ to lower the cost of labor to remain pricecompetitive, and to manage human
+ resources to ensure long-term performance. SUSTAINABILITY ACCOUNTING
+ STANDARD | METALS & MINING | 382 The scope of disclosure includes work
+ stoppage due to disputes between labor and management, including strikesand
+ lockouts.3 The scope of disclosure excludes work stoppages due to other
+ non-technical reasons that are disclosed according toEM-MM-210b.2.Note to
+ EM-MM-310a.21 The entity shall describe the reason for each work stoppage
+ (as stated by labor), and the impact on production, andany corrective
+ actions taken as a result.
+ 
+
+ Greenhouse Gas Emissions
+ ------------------------
+
+  Topic SummaryMining operations are energy-intensive and generate
+  significant direct greenhouse gas (GHG) emissions, including carbondioxide
+  from fuel use during mining, ore processing, and smelting activities. Such
+  efficiencies can mitigate the potential financial impact of increased fuel
+  costs from regulations thatseek to limit—or put a price on—GHG emissions.
+  SUSTAINABILITY ACCOUNTING STANDARD | METALS & MINING | 12
+  
+
+ Air Quality
+ -----------
+
+  Topic SummaryNon-greenhouse gas (GHG) air emissions from the Metals &
+  Mining industry include hazardous air pollutants, criteria airpollutants,
+  and Volatile Organic Compounds (VOCs) from smelting and refining
+  activities. Depending on the metal, uncaptured sulfur dioxide, lead,
+  mercury,cadmium, and arsenic are among the chief pollutants, along with
+  particulate matter. Activemanagement of the issue—through technological and
+  process improvements—could allow companies to limit theimpacts of
+  increasingly stringent air quality regulations globally.
+  
+
+ Energy Management
+ -----------------
+
+  Topic SummaryMining and metals production is often energy-intensive, with a
+  significant proportion of energy consumption in theindustry accounted for
+  by purchased electricity. The energy intensity ofoperations may increase
+  with decreasing grades of deposits and increasing depth and scale of mining
+  operations. The way in which a company manages its overall energy
+  efficiencyand intensity, its reliance on different types of energy, and its
+  ability to access alternative sources of energy, can thereforebe a material
+  factor.
+  
+
+ Water Management
+ ----------------
+
+  Topic SummaryMining and metals production can impact both the availability
+  and the quality of local water resources. (1) Total fresh water withdrawn,
+  (2) total fresh water consumed,percentage of each in regions with High or
+  Extremely High Baseline Water Stress1 The entity shall disclose the amount
+  of water, in thousands of cubic meters, that was withdrawn from
+  freshwatersources:1.1 Fresh water may be defined according to the local
+  statutes and regulations where the entity operates. SUSTAINABILITY
+  ACCOUNTING STANDARD | METALS & MINING | 18
+  
+
+ Waste & Hazardous Materials Management
+ --------------------------------------
+
+  Topic SummaryThe Metals & Mining industry generates large volumes of non-
+  mineral and mineral waste, including waste rock, tailings,slurries, slags,
+  sludges, smelting, and industrial wastes, some of which may contain
+  substances that are toxic, hazardous,or chemically reactive. Total weight
+  of hazardous waste generated1 The entity shall disclose the total weight,
+  in metric tons, of waste it generated that was hazardous.1.1 Hazardous
+  wastes are defined per the legal or regulatory framework(s) applicable
+  within the jurisdiction(s)where the waste is generated.1.1.1 The entity may
+  use definitions from the United Nations Environment Programme (UNEP)
+  BaselConvention on the Control of Transboundary Movements of Hazardous
+  Wastes and Their Disposal,1989.EM-MM-150a.8. SUSTAINABILITY ACCOUNTING
+  STANDARD | METALS & MINING | 21EM-MM-150a.10.
+  
+
+ Biodiversity Impacts
+ --------------------
+
+  Topic SummaryThe development, operation, closure, and remediation of mines
+  can have a range of impacts on biodiversity, such asalterations of
+  landscape, vegetation removal, and impacts to wildlife habitats.
+  Theenvironmental characteristics of the land where reserves are located
+  could increase extraction costs due to increasinginterest in the protection
+  of ecosystems. a non-governmental organization), a governmental agency, or
+  some combination of these groups.
+  
+
+ Security, Human Rights & Rights of Indigenous Peoples
+ -----------------------------------------------------
+
+  Topic SummaryMetals and mining companies face additional community-related
+  risks when operating in conflict zones and in areas withweak or absent
+  governance institutions, rule of law, and legislation to protect human
+  rights. 1691.2 Use of free, prior, and informed consent (or consultation)
+  processes1.3 The establishment of project grievance mechanisms1.4 The
+  establishment of formal community agreements2 The entity shall describe its
+  due diligence practices and procedures with respect to human rights,
+  including:2.1 Upholding the fundamental ILO conventions on freedom of
+  association (No. SUSTAINABILITY ACCOUNTING STANDARD | METALS & MINING | 33
+  
+
+ Community Relations
+ -------------------
+
+  Topic SummaryMining facilities are frequently active over long periods of
+  time, and companies may be involved in multiple projects in aregion that
+  can have a wide range of community impacts. Metals and mining companies
+  that are perceived asengaging in rent-seeking and exploiting a country or
+  community’s resources without providing any socio-economicbenefits in
+  return may be exposed to the risk of actions, motivated by resource
+  nationalism, and by host governments andcommunities. SUSTAINABILITY
+  ACCOUNTING STANDARD | METALS & MINING | 36EM-MM-210b.2.
+  
+
+ Labor Relations
+ ---------------
+
+  Topic SummaryMetals and mining companies face inherent tension between the
+  need to lower the cost of labor to remain pricecompetitive, and to manage
+  human resources to ensure long-term performance. At the same time, positive
+  outcomes of effective labor engagement can includeenhanced work practices,
+  labor utilization, as well as the reduction in safety incidents, accidents,
+  or fatalities. SUSTAINABILITY ACCOUNTING STANDARD | METALS & MINING | 382
+  The scope of disclosure includes work stoppage due to disputes between
+  labor and management, including strikesand lockouts.3 The scope of
+  disclosure excludes work stoppages due to other non-technical reasons that
+  are disclosed according toEM-MM-210b.2.Note to EM-MM-310a.21 The entity
+  shall describe the reason for each work stoppage (as stated by labor), and
+  the impact on production, andany corrective actions taken as a result.
+  
+
+ Workforce Health & Safety
+ -------------------------
+
+  Topic SummarySafety is critical to mining operations due to the often
+  hazardous working conditions. Fatalities or injuries can result from a
+  number of hazardsassociated with the industry, including powered haulage
+  and machinery as well as mine integrity. SUSTAINABILITY ACCOUNTING STANDARD
+  | METALS & MINING | 41
+  
+
+ Business Ethics & Transparency
+ ------------------------------
+
+  Topic SummaryManaging business ethics and maintaining an appropriate level
+  of transparency in payments to governments orindividuals are significant
+  issues for the mining industry. The emergence of severalanti-corruption,
+  anti-bribery, and payments-transparency laws and initiatives create
+  regulatory mechanisms to reducecertain risks. SUSTAINABILITY ACCOUNTING
+  STANDARD | METALS & MINING | 43
+  
+
+ Tailings Storage Facilities Management
+ --------------------------------------
+
+  Topic SummaryThe Metals & Mining industry faces significant operational
+  hazards, particularly those associated with the structuralintegrity of
+  tailings storage facilities (TSFs). Robust processes andapproaches to TSF
+  design, management, operation, and closure, as well as appropriate
+  management of associated risks,can help prevent such incidents from
+  occurring. ”3 The entity should disclose this inventory in the following
+  table format:(i) Date(f)(g)  of mostMaximu (h)  (k)(c)  (d)  (e)  Current
+  recent(a)  (b)  m  Conseq (j)  Mitigati (l) Site-Owners Operati Constru
+  amount indepenFacility  Locatio permitt uence  Material on  specifichip
+  onal  ction  of  dentname  n  ed  classific findings measur EPRPstatus
+  status method tailings  technicstorage  ation esstored alcapacityreviewEM-
+  MM-540a.2.
+  
+
+
+
